@@ -12,8 +12,12 @@ var postsData = [
     url: 'http://themeteorbook.com'
   },
   {
-    title: 'Check out my Github',
+    title: 'Check Out My Github',
     url: 'http://www.github.com/clarkgh'
+  },
+  {
+    title: 'Check Out My Blog',
+    url: 'http://glubnerdglub.blogspot.com/'
   }
 ];
 Template.postsList.helpers({
